@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "random-cat": "^1.0.1"
+  },
+  "name": "cat-generator",
+  "version": "1.0.0",
+  "main": "random-cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
